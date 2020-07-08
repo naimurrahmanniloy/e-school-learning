@@ -212,6 +212,15 @@ ul li a:hover {
     list-style: none;
 }
 
+.foot_row ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.foot_row ul li a:hover {
+    border: none;
+}
+
 .foot {
     font-size: 16px;
     line-height: 30px;
